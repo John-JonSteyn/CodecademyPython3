@@ -2,11 +2,13 @@
 <div align="center">
 
 <!-- PROJECT SHIELDS -->
+[![Codecademy][codecademy-shield]][codecademy-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -82,14 +84,16 @@ Naturally, all credit goes to CodeCademy and their Python 3 course. I cannot rec
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]: https://img.shields.io/github/contributors/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge
-[contributors-url]: https://github.com/Bearded-Viking/CodecademyPython3/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge
-[forks-url]: https://github.com/Bearded-Viking/CodecademyPython3/network/members
-[stars-shield]: https://img.shields.io/github/stars/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge
-[stars-url]: https://github.com/Bearded-Viking/CodecademyPython3/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge
-[issues-url]: https://github.com/Bearded-Viking/CodecademyPython3/issues
-[license-shield]: https://img.shields.io/github/license/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge
-[license-url]: https://github.com/Bearded-Viking/CodecademyPython3/blob/master/LICENSE.txt
+[contributors-shield]:  https://img.shields.io/github/contributors/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[contributors-url]:     https://github.com/Bearded-Viking/CodecademyPython3/graphs/contributors
+[forks-shield]:         https://img.shields.io/github/forks/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[forks-url]:            https://github.com/Bearded-Viking/CodecademyPython3/network/members
+[stars-shield]:         https://img.shields.io/github/stars/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[stars-url]:            https://github.com/Bearded-Viking/CodecademyPython3/stargazers
+[issues-shield]:        https://img.shields.io/github/issues/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[issues-url]:           https://github.com/Bearded-Viking/CodecademyPython3/issues
+[license-shield]:       https://img.shields.io/github/license/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[license-url]:          https://github.com/Bearded-Viking/CodecademyPython3/blob/master/LICENSE.txt
+[codecademy-shield]:    https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white
+[codecademy-url]:       https://www.codecademy.com/profiles/Bearded-Viking
 
