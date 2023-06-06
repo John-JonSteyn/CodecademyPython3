@@ -21,10 +21,10 @@
   <p align="center">
     My solutions for <a href="https://www.codecademy.com">Codecademy's</a> <a href="https://www.codecademy.com/learn/learn-python-3">Python 3 Course</a>
     <br />
-    <a href="https://github.com/Bearded-Viking/CodecademyPython3/"><strong>View Source Code »</strong></a>
+    <a href="https://github.com/John-JonSteyn/CodecademyPython3/"><strong>View Source Code »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Bearded-Viking/CodecademyPython3/issues">Report Bug</a>
+    <a href="https://github.com/John-JonSteyn/CodecademyPython3/issues">Report Bug</a>
   </p>
 </div>
 
@@ -84,16 +84,16 @@ Naturally, all credit goes to CodeCademy and their Python 3 course. I cannot rec
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[contributors-shield]:  https://img.shields.io/github/contributors/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
-[contributors-url]:     https://github.com/Bearded-Viking/CodecademyPython3/graphs/contributors
-[forks-shield]:         https://img.shields.io/github/forks/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
-[forks-url]:            https://github.com/Bearded-Viking/CodecademyPython3/network/members
-[stars-shield]:         https://img.shields.io/github/stars/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
-[stars-url]:            https://github.com/Bearded-Viking/CodecademyPython3/stargazers
-[issues-shield]:        https://img.shields.io/github/issues/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
-[issues-url]:           https://github.com/Bearded-Viking/CodecademyPython3/issues
-[license-shield]:       https://img.shields.io/github/license/Bearded-Viking/CodecademyPython3.svg?style=for-the-badge&color=1F4056
-[license-url]:          https://github.com/Bearded-Viking/CodecademyPython3/blob/master/LICENSE.txt
+[contributors-shield]:  https://img.shields.io/github/contributors/John-JonSteyn/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[contributors-url]:     https://github.com/John-JonSteyn/CodecademyPython3/graphs/contributors
+[forks-shield]:         https://img.shields.io/github/forks/John-JonSteyn/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[forks-url]:            https://github.com/John-JonSteyn/CodecademyPython3/network/members
+[stars-shield]:         https://img.shields.io/github/stars/John-JonSteyn/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[stars-url]:            https://github.com/John-JonSteyn/CodecademyPython3/stargazers
+[issues-shield]:        https://img.shields.io/github/issues/John-JonSteyn/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[issues-url]:           https://github.com/John-JonSteyn/CodecademyPython3/issues
+[license-shield]:       https://img.shields.io/github/license/John-JonSteyn/CodecademyPython3.svg?style=for-the-badge&color=1F4056
+[license-url]:          https://github.com/John-JonSteyn/CodecademyPython3/blob/master/LICENSE.txt
 [codecademy-shield]:    https://img.shields.io/badge/CodeCademy-1F4056?logo=codecademy&style=for-the-badge&logoColor=white
-[codecademy-url]:       https://www.codecademy.com/profiles/Bearded-Viking
+[codecademy-url]:       https://www.codecademy.com/profiles/John-JonSteyn
 
